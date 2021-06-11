@@ -4,6 +4,37 @@
     padding-top: 100px;
     padding-bottom: 150px;
     font-size: xx-large;
-    color:white
+    color:white;
 
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+#happyhour {
+    background-color:grey;
+    padding: 50px;
+    
+    
+}
+#partytime {
+    background-color: tomato;
+    padding: 50px;
+    
+
+}
+#breakfast {
+    background-image: url(./Assets/breakfast.jpg);
+    padding: 100px;
+    
+}
+#lunch {
+    background-image: url(./Assets/lunch.jpg);
+    padding: 100px;
+}
+#dinner {
+    background-image: url(./Assets/dinner.jpg);
+    padding: 100px;
+}
+
