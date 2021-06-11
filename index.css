@@ -11,6 +11,7 @@ nav {
     display: flex;
     justify-content: space-between;
     color: white;
+    
 }
 #happyhour {
     background-color:grey;
@@ -28,10 +29,12 @@ nav {
     background-image: url(./Assets/breakfast.jpg);
     padding: 100px;
     
+    
 }
 #lunch {
     background-image: url(./Assets/lunch.jpg);
     padding: 100px;
+    opacity: 0.4;
 }
 #dinner {
     background-image: url(./Assets/dinner.jpg);
