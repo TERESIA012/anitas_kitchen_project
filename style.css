@@ -4,18 +4,25 @@
     width: 33.33%;
     padding: 5%;
     
+    
 }
+
 #fastfood {
     float: right;
     
 }
-#drinks {
-    float: left;
-    text-align: center;
-}
+
 #drinksimage {
     float: right;
+    padding-top: 450px;
     
+    
+
+
+}
+
+.drinks {
+    padding-top: 650px;
 }
 
 
