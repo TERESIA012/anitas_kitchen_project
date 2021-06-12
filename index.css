@@ -9,35 +9,54 @@
 }
 nav {
     display: flex;
-    justify-content: space-between;
     color: white;
+    align-items: center;
+    padding-top: -50px;
+    margin-top: -20px;
+    list-style: none;
+    
     
 }
 #happyhour {
     background-color:grey;
-    padding: 50px;
+    width:400px;
+    height:75px;
+    margin-left: -40px;
+    text-align: center;
     
     
 }
 #partytime {
     background-color: tomato;
-    padding: 50px;
-    
+    width:400px;
+    height: 75px;
+    margin-left: -40px;
+    text-align: center;
 
 }
 #breakfast {
     background-image: url(./Assets/breakfast.jpg);
-    padding: 100px;
+    width: 450px;
+    height: 150px;
+    text-align: center;
     
     
 }
 #lunch {
     background-image: url(./Assets/lunch.jpg);
-    padding: 100px;
-    opacity: 0.4;
+    width: 450px;
+    height: 150px;
+    text-align: center;
+     opacity: 0.4;
 }
 #dinner {
     background-image: url(./Assets/dinner.jpg);
-    padding: 100px;
-}
+    width:450px;
+    height: 150px;
+    text-align: center;
+    
 
+}    
+nav ul li{
+    list-style: none;
+}
