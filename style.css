@@ -3,6 +3,7 @@
     float: left;
     width: 33.33%;
     padding: 5%;
+    font-size: 0px;
     
     
 }
@@ -15,6 +16,8 @@
 #drinksimage {
     float: right;
     padding-top: 450px;
+    font-size: 0px;
+    
     
     
 
