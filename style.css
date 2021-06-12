@@ -1,9 +1,12 @@
 #fastfoodimage {
     box-sizing: border-box;
     float: left;
-    width: 33.33%;
+    width: 45%;
     padding: 5%;
     font-size: 0px;
+    
+    
+    
     
     
 }
@@ -15,18 +18,19 @@
 
 #drinksimage {
     float: right;
-    padding-top: 450px;
+    padding-top: 300px;
     font-size: 0px;
+    background-repeat: no-repeat;
     
-    
-    
-
-
 }
 
 .drinks {
     padding-top: 650px;
 }
 
+.itemslist {
+display: flex;
+padding-top: 200px;
+}
 
     
