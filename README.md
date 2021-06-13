@@ -14,7 +14,7 @@
 * One should also use a smart phone or computer when running the website.
 # Github pages link;
 By clicking the link you can access the website
-https://github.com/TERESIA012/anitas_kitchen_project
+https://teresia012.github.io/anitas_kitchen_project/
 # Licence
 * Copyright@2021 Moringa School
 
