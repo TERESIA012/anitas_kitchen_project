@@ -1,4 +1,9 @@
-#logo1 {
+* {
+    font: 1em sans-serif;
+}
+    
+
+ #logo1 {
     text-align: center;
     background-image: url(./Assets/landing.jpg);
     padding-top: 100px;
