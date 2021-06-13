@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
 #drinksimage {
     display: flex;
@@ -23,5 +24,17 @@
     display: flex;
     align-items: center;
     justify-content: center;
+    width: 100%;
 }
+#menu {
+    background-image: url(./Assets/foodsBg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 30px;
+    margin-top: 80px;
+    
+    
+    
+}
+
     
