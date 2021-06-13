@@ -1,89 +1,27 @@
 #fastfoodimage {
-    box-sizing: border-box;
-    float: left;
-    width: 45%;
-    padding: 5%;
     font-size: 0px;
-    
-    
-    
-    
-    
-}
+    border-radius: 2px;
+    border: 15px solid whitesmoke;
+    box-shadow: 5px 5px 6px grey,-5px -5px 6px grey;
+    margin: 30px;
+    width: 39%;
 
-#fastfood {
-    float: right;
-    padding: 20px;
 }
-
+#fast_food {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
 #drinksimage {
+    display: flex;
     float: right;
-    padding-top: 250px;
-    font-size: 0px;
-    background-repeat: no-repeat;
-    
-    
-}
-
-.drinks {
-    padding-top: 650px;
-}
-
-.itemslist {
-display: flex;
-padding-top: 200px;
+    border: 15px solid whitesmoke;
+    box-shadow: 0px 0px 6px grey;
 
 }
-#menu {
-    background-image: url(./Assets/foodsBg.jpg);
-    background-repeat: no-repeat;
-    background-position: center;
-    clear: right;
-    padding-top: 400px;
-}
-#row {
+#drinks {
     display: flex;
-    justify-content: space-between;
-    padding-bottom: 400px;
+    align-items: center;
+    justify-content: center;
 }
-#navbar {
-    background-color: darkgrey;
-    display: flex;
-    justify-content: space-between;
-}
-a {
-    text-decoration: none;
-    text-align: center;
-    color: solid black;
-    display: block;
-    padding: 14px 16px;
-    width: 100%;
-    font-size: 16px;
-}
-a:hover {
-    background-color: cornsilk;
-    color: #F15A29;
-    font-size: 17px;
-}
-#row {
-    display: flex;
-    color: #F15A29;
-    justify-content: space-between;
-    padding-top: 200px;
-    margin-right: 150px;
-    margin-left: 150px;
-    background-color: white;
     
-    
-
-    
-    
-    
-}
-#row div {
-    text-align: center;
-}
-
-
-
-
