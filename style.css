@@ -131,6 +131,18 @@ a:hover {
     margin-top: 5px;
     
 }
+#footer2 {
+    background-color: tomato;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 42%;
+    padding-top:4% ;
+    
+}
+.last {
+    display: flex;
+}
 
 
 
