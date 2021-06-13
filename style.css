@@ -33,8 +33,42 @@
     padding: 30px;
     margin-top: 80px;
     
-    
-    
+}#menutable {
+    margin: 10px 50px;
+    background-color: honeydew;
 }
+.row {
+    display: flex;
+    color: #F15A29;
+    justify-content: space-between;
+    padding-top: 70px;
+    margin-right: 120px;
+    margin-left: 120px;
+
+}
+.navbar {
+    background-color: white;
+    color:#F15A29;
+    font-size: 20PX;
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    display: block;
+    padding: 12px 14px;
+    width: 100%;
+    font-size: 20px;
+}
+a:hover {
+    background-color: white;
+    color: #F15A29;
+    font-size: 20px;
+}
+
+
+
 
     
