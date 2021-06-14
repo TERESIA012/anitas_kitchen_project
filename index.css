@@ -6,6 +6,8 @@
     padding-bottom: 150px;
     font-size: xx-large;
     color:white;
+    background-repeat: no-repeat;
+    background-size: cover;
 
 }
 nav {
@@ -83,4 +85,11 @@ nav ul li{
 .outline {
     border-color:orange;
     color: orange;
+}
+span  p {
+    display: flex;
+    padding-left: 30px;
+    font-size: 80px;
+    
+    
 }
