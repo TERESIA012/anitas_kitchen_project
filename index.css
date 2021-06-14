@@ -11,12 +11,16 @@
 
 }
 nav {
+    font-family: 'Roboto Slab', serif;
     display: flex;
     color: white;
     align-items: center;
     padding-top: -50px;
     margin-top: -20px;
     list-style: none;
+    font-style: italic;
+    font-size: 20px;
+    
     
     
 }
