@@ -12,6 +12,9 @@
 * The website runs smoothly on Chrome search engine.
 * Using the website will require one to have data bundles.
 * One should also use a smart phone or computer when running the website.
+# Programming langues used are;
+* HTML
+* CSS
 # Github pages link;
 By clicking the link you can access the website
 https://teresia012.github.io/anitas_kitchen_project/
